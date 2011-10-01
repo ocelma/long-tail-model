@@ -2,7 +2,7 @@
 # Oscar Celma
 # Implementation of the Long Tail model, F(x)
 # http://ocelma.net/PhD/
-# Article reference: http://www.firstmonday.org/issues/issue12_5/kilkki/
+# Article reference: http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1832/1716
 #
 
 # Load functions: F(x), N50() and GetRank()
